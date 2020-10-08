@@ -760,3 +760,9 @@ padding-bottom: 240px;
     height: 5em;
   }
 }
+
+
+..owl-theme .owl-controls .owl-page span{
+    border-color: #ffffff
+}
+
